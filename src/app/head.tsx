@@ -2,7 +2,7 @@ export default function Head() {
   return (
     <>
       <title>Indicators+</title>
-      <link rel="icon" href="/favicon.ico" />
+      {/* <link rel="icon" href="/favicon.ico" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
@@ -23,7 +23,7 @@ export default function Head() {
       <meta
         name="description"
         content="Study over 2250 proformance indicators"
-      />
+      /> */}
       <meta httpEquiv="X-UA-Compatible" content="IE=edge"></meta>
       <meta
         name="viewport"
