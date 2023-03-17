@@ -20,15 +20,14 @@ export default function Head() {
         sizes="16x16"
         href="/favicon-16x16.png"
       />
-      <meta
-        name="description"
-        content="Study over 2250 proformance indicators"
-      />
+      <link rel="manifest" href="/site.webmanifest" />
+      <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+      <meta name="description" content="All-in-One Fitness Solution" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge"></meta>
       <meta
         name="viewport"
-        content="width=device-width, initial-scale=1, maximum-scale=1"
-      />
+        content="width=device-width, initial-scale=1., maximum-scale=1"
+      ></meta>
       <meta name="theme-color" content="#000000"></meta>
     </>
   );
