@@ -22,10 +22,6 @@ export default function Head() {
       />
       <link rel="manifest" href="/site.webmanifest" />
       <meta name="mobile-web-app-capable" content="yes" />
-      <meta
-        name="apple-mobile-web-app-status-bar-style"
-        content="black-translucent"
-      />
       <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
       <meta name="description" content="All-in-One Fitness Solution" />
       <meta httpEquiv="X-UA-Compatible" content="IE=edge"></meta>
