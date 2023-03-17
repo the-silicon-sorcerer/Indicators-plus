@@ -1,0 +1,39 @@
+.searchContainer {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.searchBox {
+  height: 100%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-grow: 1;
+  border-radius: var(--borderRadius);
+  padding: 0px 10px;
+}
+
+.searchBox > form {
+  width: 100%;
+}
+
+.searchBox > form > input {
+  flex-grow: 1;
+  outline: none;
+  border: none;
+  font-size: 14px;
+  width: 100%;
+}
+
+.spinner {
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: fixed;
+}

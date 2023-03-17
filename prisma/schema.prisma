@@ -1,0 +1,40 @@
+datasource db {
+    provider     = "mysql"
+    url          = env("DATABASE_URL")
+    relationMode = "prisma"
+}
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+model IndicatorData {
+    id         String     @id @default(cuid())
+    indicator  String     @db.Text
+    text       String     @db.Text
+    area       Area       @relation(fields: [areaId], references: [id])
+    areaId     String
+    Categories Category[]
+
+    @@index([areaId])
+}
+
+enum Categories {
+    MANAGMENT
+    MARKETING
+    FINANCE
+    HOSPITIALITY
+    ENTREPRENEUR
+}
+
+model Category {
+    id         Categories      @id
+    name       Categories
+    indicators IndicatorData[]
+}
+
+model Area {
+    id            String          @id
+    name          String          @db.Text
+    IndicatorData IndicatorData[]
+}

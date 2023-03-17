@@ -1,0 +1,13 @@
+.container {
+  position: fixed;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  width: 100%;
+  color: white;
+  gap: 10px;
+  transition: bottom 0.25s;
+  z-index: 1;
+}

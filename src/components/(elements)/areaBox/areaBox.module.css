@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 20px;
+  background-color: var(--offWhite);
+  border-radius: var(--borderRadius);
+  border: var(--border);
+}
+
+.container:hover {
+  filter: brightness(95%);
+}
+
+.text {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  color: black;
+}
+
+.text p:nth-child(2) {
+  color: var(--darkBlue);
+}
+
+.container:active {
+  filter: brightness(90%);
+}

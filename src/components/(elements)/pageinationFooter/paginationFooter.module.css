@@ -1,0 +1,36 @@
+.paginationContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+}
+
+.paginationContainerSmall {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.paginationBox {
+  display: grid;
+  place-items: center;
+  background-color: var(--offWhite);
+  border: var(--border);
+  border-radius: var(--borderRadius);
+  height: 30px;
+  aspect-ratio: 1/1;
+  color: black;
+}
+
+.paginationBox:active {
+  filter: brightness(90%);
+}
+
+@media (min-width: 700px) {
+  .paginationContainer {
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+}

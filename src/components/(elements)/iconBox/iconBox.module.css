@@ -1,0 +1,15 @@
+.container {
+  width: 80px;
+  aspect-ratio: 1/1;
+  display: grid;
+  place-items: center;
+  border-radius: var(--borderRadius);
+}
+
+.container:hover {
+  filter: brightness(95%);
+}
+
+.container:active {
+  filter: brightness(90%);
+}
