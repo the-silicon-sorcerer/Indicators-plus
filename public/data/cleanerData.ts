@@ -7092,7 +7092,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Product/Service Management ",
     indicator: "Communicate core values of product/service (PM:214) ",
-    text: "\n\nCommunicating core values of a product or service is essential to building a successful brand. Core values are the fundamental beliefs of a company that guide its actions and decisions. By communicating these values to customers, companies can create an emotional connection with their audience and establish trust. This can be done through marketing campaigns, customer service interactions, and product design. By communicating core values, companies can create a strong, recognizable brand that customers will remember and come back to.",
+    text: "\n\nTo effectively communicate the core values of a product or service, it's important to first identify and articulate those values. Once you have a clear understanding of what your product or service stands for, you can use various communication channels to get the message out to your target audience. This may include creating marketing materials that highlight your core values, such as taglines or slogans that convey your mission, vision, or unique selling proposition. It may also involve leveraging social media and other digital platforms to share stories and testimonials from customers who have experienced the benefits of your product or service firsthand. Ultimately, the key to effectively communicating your core values is to be consistent, transparent, and authentic in your messaging and actions, and to ensure that every interaction with your customers reinforces those values.",
     category: ["MARKETING", "HOSPITIALITY"],
   },
   {

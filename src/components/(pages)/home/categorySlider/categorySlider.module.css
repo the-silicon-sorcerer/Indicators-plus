@@ -68,3 +68,12 @@
     display: none;
   }
 }
+
+@media (min-width: 1000px) {
+  .container {
+    display: none;
+  }
+  .desktopPadding {
+    padding: 0px 150px;
+  }
+}

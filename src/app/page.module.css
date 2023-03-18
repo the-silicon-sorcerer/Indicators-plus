@@ -63,6 +63,9 @@
 }
 
 @media (min-width: 700px) {
+  .menu {
+    display: none;
+  }
   .heroContainer {
     height: 425px;
   }
@@ -85,9 +88,25 @@
 }
 
 @media (min-width: 1000px) {
+  .menu {
+    display: none;
+    right: 150px;
+  }
   .boxContainer {
+    padding: 0px 50px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 10px;
+  }
+  .headerContainer {
+    position: relative;
+    padding: 0px 150px;
+    margin-bottom: 30px;
+  }
+  .searchContainer {
+    padding: 0px 150px;
+  }
+  .areasHeader {
+    padding: 0px 50px;
   }
 }
