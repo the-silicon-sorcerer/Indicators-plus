@@ -203,7 +203,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Communication Skills ",
     indicator: "Provide legitimate responses to inquiries (CO:060) ",
-    text: "\n\nCO:060 refers to a customer service standard that requires customer service representatives to provide legitimate responses to customer inquiries. This means that customer service representatives must be knowledgeable and provide accurate information to customers in a timely manner. They must also be courteous and professional when responding to customer inquiries. Additionally, customer service representatives must be able to provide solutions to customer inquiries and be able to follow up with customers to ensure their satisfaction.",
+    text: "\n\n Refers to a customer service standard that requires customer service representatives to provide legitimate responses to customer inquiries. This means that customer service representatives must be knowledgeable and provide accurate information to customers in a timely manner. They must also be courteous and professional when responding to customer inquiries. Additionally, customer service representatives must be able to provide solutions to customer inquiries and be able to follow up with customers to ensure their satisfaction.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -285,7 +285,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Communication Skills ",
     indicator:
       "Edit and revise written work consistent with professional standards (CO:089) ",
-    text: "\n\nCO:089 is a professional standard that requires written work to be edited and revised to meet certain criteria. This includes ensuring that the written work is free of errors in grammar, spelling, punctuation, and syntax, as well as ensuring that the content is accurate and consistent with the intended purpose. Additionally, the writing should be clear and concise, and should adhere to the style guide of the organization or publication.",
+    text: "\n\n Is a professional standard that requires written work to be edited and revised to meet certain criteria. This includes ensuring that the written work is free of errors in grammar, spelling, punctuation, and syntax, as well as ensuring that the content is accurate and consistent with the intended purpose. Additionally, the writing should be clear and concise, and should adhere to the style guide of the organization or publication.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -416,7 +416,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Customer Relations ",
     indicator: "Respond to customer inquiries (CR:006) ",
-    text: "\n\nCR:006 is a customer inquiry that needs to be responded to. Depending on the nature of the inquiry, the response could include providing additional information, resolving a problem, or addressing a concern. It is important to respond to customer inquiries in a timely and professional manner to ensure customer satisfaction.",
+    text: "\n\n Depending on the nature of the inquiry, the response could include providing additional information, resolving a problem, or addressing a concern. It is important to respond to customer inquiries in a timely and professional manner to ensure customer satisfaction.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -1447,7 +1447,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Financial Analysis ",
     indicator: "Interpret a pay stub (FI:068) ",
-    text: "\n\nA pay stub is a document that is issued to an employee by their employer to provide a record of their wages and deductions. It typically includes information such as the employee's name, the period of time the wages cover, the gross wages earned, any deductions taken, and the net wages paid. The FI:068 indicates the type of pay stub, which in this case is a Federal Income Tax withholding form. This form is used to calculate the amount of federal income tax that should be withheld from the employee's wages.",
+    text: "\n\nA pay stub is a document that is issued to an employee by their employer to provide a record of their wages and deductions. It typically includes information such as the employee's name, the period of time the wages cover, the gross wages earned, any deductions taken, and the net wages paid. ",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -1872,7 +1872,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Information Management ",
     indicator:
       "Use an integrated business software application package (NF:088) ",
-    text: "\n\nAn integrated business software application package is a comprehensive suite of software applications designed to help businesses manage their operations more efficiently. It typically includes modules for accounting, customer relationship management (CRM), enterprise resource planning (ERP), and other business processes. The software is designed to integrate all of these functions into one unified system, allowing businesses to streamline their operations and improve their overall performance. NF:088 is a comprehensive package that can help businesses increase their productivity, reduce costs, and improve customer service.",
+    text: "\n\nAn integrated business software application package is a comprehensive suite of software applications designed to help businesses manage their operations more efficiently. It typically includes modules for accounting, customer relationship management (CRM), enterprise resource planning (ERP), and other business processes. The software is designed to integrate all of these functions into one unified system, allowing businesses to streamline their operations and improve their overall performance.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -2082,7 +2082,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Follow safety precautions (OP:007) ",
-    text: "\n\nOP:007 is a safety precaution that encourages people to take the necessary steps to ensure their safety. This could include wearing protective gear, following safety protocols, and being aware of potential hazards. Taking these precautions can help prevent accidents and injuries, and ensure that everyone remains safe.",
+    text: "\n\nThis could include wearing protective gear, following safety protocols, and being aware of potential hazards. Taking these precautions can help prevent accidents and injuries, and ensure that everyone remains safe.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -2167,7 +2167,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Identify resources needed for project (OP:003) ",
-    text: "\n\nFor project OP:003, the resources needed will depend on the scope of the project. Generally, resources can include personnel, materials, equipment, and other resources such as financial and technical support. It is important to identify the resources needed to ensure the successful completion of the project.",
+    text: "\n\n The resources needed will depend on the scope of the project. Generally, resources can include personnel, materials, equipment, and other resources such as financial and technical support. It is important to identify the resources needed to ensure the successful completion of the project.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -2893,7 +2893,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Project Management ",
     indicator: "Manage project team (PJ:007) ",
-    text: "\n\nManaging project team PJ:007 involves overseeing the progress of the project, ensuring that tasks are completed on time and to the required standard, and providing guidance and support to the team members. It also involves monitoring the team's performance, resolving any conflicts that may arise, and providing feedback to the team members. Additionally, it involves communicating with stakeholders, ensuring that the project is meeting its objectives, and making any necessary changes to the project plan.",
+    text: "\n\nManaging project team involves overseeing the progress of the project, ensuring that tasks are completed on time and to the required standard, and providing guidance and support to the team members. It also involves monitoring the team's performance, resolving any conflicts that may arise, and providing feedback to the team members. Additionally, it involves communicating with stakeholders, ensuring that the project is meeting its objectives, and making any necessary changes to the project plan.",
     category: ["MANAGMENT"],
   },
   {
@@ -3949,8 +3949,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Strategic Management ",
-    indicator: "organization (SM:037) ",
-    text: "\n\nOrganization of particle physics. The Standard Model is a theory that describes the fundamental particles and forces that make up the universe. It is the most widely accepted theory of particle physics and is used to explain the behavior of matter and energy on the smallest scales. SM:037 is a specific particle within the Standard Model, a type of quark known as the strange quark.",
+    indicator:
+      "Explain the strategic role of information systems/information communication technology within an organization (SM:037) ",
+    text: "\n\nThe strategic role of information systems/information communication technology within an organization is to enable efficient and effective management of information, which is critical for decision-making, operational processes, and overall performance. By implementing and utilizing information systems/ICT, organizations can improve their competitiveness, enhance their customer service, and increase their productivity. Information systems/ICT can help organizations to automate routine tasks, streamline processes, and provide real-time data and insights for informed decision-making. Additionally, these systems can help organizations to communicate more effectively with their customers, partners, and stakeholders, which can improve relationships and facilitate collaboration. Ultimately, information systems/ICT play a crucial role in enabling organizations to achieve their strategic goals and remain competitive in today's digital landscape.",
     category: ["MANAGMENT"],
   },
   {
@@ -6706,7 +6707,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Promotion ",
     indicator: "Check advertising proofs (PR:130) ",
-    text: "\n\nChecking advertising proofs is a process that involves reviewing the content of an advertisement before it is published. This includes reviewing the text, images, and other elements of the ad to ensure accuracy and compliance with any applicable regulations. The PR:130 designation is a reference to the specific procedure that should be followed when checking advertising proofs. This procedure outlines the steps that should be taken to ensure that the advertisement is accurate and compliant with any applicable regulations.",
+    text: "\n\nChecking advertising proofs is a process that involves reviewing the content of an advertisement before it is published. This includes reviewing the text, images, and other elements of the ad to ensure accuracy and compliance with any applicable regulations.",
     category: ["MARKETING"],
   },
   {
@@ -9318,7 +9319,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Customer Relations ",
     indicator: "Assist a customer in the opening of an account (CR:032) ",
-    text: "\n\nOpening an account with us is easy! To assist you in opening an account, I will need to collect some information from you. This includes your name, address, contact information, and any other relevant information. Once I have all the necessary information, I will create an account for you with the CR:032 designation. I will then provide you with the details of your account, including your account number and any other information you may need. Thank you for choosing us to open your account!",
+    text: "\n\nTo assist a customer in opening an account, start by providing them with all the necessary information and requirements for opening an account, such as identification documents and account fees. Answer any questions they may have and guide them through the application process step by step. Be patient and courteous throughout the process, and make sure to address any concerns or issues the customer may have. After the account is successfully opened, follow up with the customer to ensure they are satisfied with the process and provide them with any additional information they may need to manage their account effectively.",
     category: ["FINANCE"],
   },
   {
@@ -10514,7 +10515,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Customer Relations ",
     indicator: "Follow up on the completion of the transaction (CR:034) ",
-    text: "\n\nFollowing up on the completion of the transaction (CR:034), I would like to ensure that all parties involved are satisfied with the outcome. If there are any issues or concerns, please let me know so that I can address them promptly. Thank you for your cooperation.",
+    text: "\n\nTo follow up on the completion of a transaction, start by verifying that the transaction has been completed by checking that goods or services have been delivered, and payments have been received. Once you have confirmed the completion, it's important to send a follow-up message to express your gratitude for their business and confirm that everything has been completed successfully. This could be a simple email or phone call, thanking the other party for their trust and confidence in your services or products. This communication can also serve as an opportunity to ask for feedback on their experience and how you can improve your services or products for future transactions. By following up in a timely and professional manner, you can build strong relationships with your customers and ensure their continued satisfaction with your business.",
     category: ["FINANCE"],
   },
   {
@@ -11709,7 +11710,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Project Management ",
     indicator: "Identify resources needed for event (PJ:025) ",
-    text: "\n\nFor event PJ:025, resources needed will depend on the type of event. Generally, resources needed may include a venue, catering, decorations, audio/visual equipment, and staff. Depending on the event, additional resources may be needed, such as entertainment, security, and transportation. It is important to identify all resources needed for the event in order to ensure a successful outcome.",
+    text: "\n\n Generally, resources needed may include a venue, catering, decorations, audio/visual equipment, and staff. Depending on the event, additional resources may be needed, such as entertainment, security, and transportation. It is important to identify all resources needed for the event in order to ensure a successful outcome.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -11914,7 +11915,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Project Management ",
     indicator: "Box and ship exhibition materials (PJ:076) ",
-    text: "\n\nBox and ship exhibition materials refers to the process of packing and shipping materials used for an exhibition. This includes items such as display stands, banners, and other promotional materials. The materials must be carefully packed and shipped to ensure they arrive in good condition and on time for the exhibition. The PJ:076 code is a reference to the specific project or exhibition that the materials are being shipped for.",
+    text: "\n\nBox and ship exhibition materials refers to the process of packing and shipping materials used for an exhibition. This includes items such as display stands, banners, and other promotional materials. The materials must be carefully packed and shipped to ensure they arrive in good condition and on time for the exhibition.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -12089,7 +12090,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Customer Relations ",
     indicator: "Process guest room changes (CR:060) ",
-    text: "\n\nProcess guest room changes refers to the process of making changes to a guest room in a hotel or other lodging facility. This could include changing the bedding, adding amenities, or making any other changes that the guest requests. The CR:060 code is used to track the changes that have been made to the room.",
+    text: "\n\nProcess guest room changes refers to the process of making changes to a guest room in a hotel or other lodging facility. This could include changing the bedding, adding amenities, or making any other changes that the guest requests.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -13293,7 +13294,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Customer Relations ",
     indicator: "Provide service to customers with special needs (CR:070) ",
-    text: "\n\nCR:070 refers to providing service to customers with special needs. This could include customers with physical or mental disabilities, or those with language barriers. It is important to ensure that these customers receive the same level of service as any other customer. This could involve providing additional assistance or accommodations, such as providing a sign language interpreter or a wheelchair-accessible entrance. It is also important to be patient and understanding when interacting with customers with special needs.",
+    text: "\n\n Refers to providing service to customers with special needs. This could include customers with physical or mental disabilities, or those with language barriers. It is important to ensure that these customers receive the same level of service as any other customer. This could involve providing additional assistance or accommodations, such as providing a sign language interpreter or a wheelchair-accessible entrance. It is also important to be patient and understanding when interacting with customers with special needs.",
     category: ["HOSPITIALITY"],
   },
   {
