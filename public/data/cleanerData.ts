@@ -159,7 +159,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Communication Skills ",
     indicator:
       "Analyze company resources to ascertain policies and procedures (CO:057) ",
-    text: "\n\nThis prompt is asking to analyze the resources of a company to determine the policies and procedures that are in place. This could include reviewing the company's website, employee handbook, and any other documents that outline the company's policies and procedures. It is important to understand the company's policies and procedures in order to ensure that all employees are following the same guidelines and that the company is compliant with any applicable laws and regulations.",
+    text: "\n\nThis could include reviewing the company's website, employee handbook, and any other documents that outline the company's policies and procedures. It is important to understand the company's policies and procedures in order to ensure that all employees are following the same guidelines and that the company is compliant with any applicable laws and regulations.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -216,7 +216,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Communication Skills ",
     indicator:
       "Employ communication styles appropriate to target audience (CO:084) ",
-    text: "\n\nThis prompt is referring to the importance of adapting your communication style to the audience you are addressing. Depending on the situation, you may need to adjust the way you communicate to ensure that your message is understood and received in the way you intended. For example, when communicating with a group of peers, you may use more informal language, whereas when communicating with a supervisor, you may need to use more formal language. By adapting your communication style to the target audience, you can ensure that your message is effectively conveyed.",
+    text: "\n\n Depending on the situation, you may need to adjust the way you communicate to ensure that your message is understood and received in the way you intended. For example, when communicating with a group of peers, you may use more informal language, whereas when communicating with a supervisor, you may need to use more formal language. By adapting your communication style to the target audience, you can ensure that your message is effectively conveyed.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -309,7 +309,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Communication Skills ",
     indicator: "Write inquiries (CO:040) ",
-    text: "\n\nWrite inquiries is a prompt that is asking the reader to write down any questions they have about a particular topic. This could be related to a project, a product, or a service. The purpose of writing down inquiries is to ensure that all questions are addressed before making a decision or taking action. This can help to ensure that all necessary information is gathered and that any potential issues are identified and addressed.",
+    text: "\n\n This could be related to a project, a product, or a service. The purpose of writing down inquiries is to ensure that all questions are addressed before making a decision or taking action. This can help to ensure that all necessary information is gathered and that any potential issues are identified and addressed.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -1105,7 +1105,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Emotional Intelligence ",
     indicator: "Use appropriate assertiveness (EI:008) ",
-    text: "\n\nThe prompt is: How can I be more assertive?\n\nBeing assertive means expressing your thoughts, feelings, and needs in an open and direct way. To be more assertive, start by identifying your needs and feelings, and then practice expressing them in a clear and respectful manner. Make sure to be honest and direct, but also be mindful of the other person's feelings. Additionally, practice active listening and be open to compromise. Finally, remember to be confident and stay true to yourself.",
+    text: "\n\nAssertiveness is based on balance. It requires being forthright about your wants and needs, while still considering the rights, needs and wants of others. When you’re assertive, you are self-assured and draw power from this to get your point across firmly, fairly and with empathy. Aggressive behavior is based on winning. Here are some tips to help you become more assertive: Assess your style. Do you voice your opinions or remain silent? Do you say yes to additional work even when your plate is full? Assessing your style can help you identify areas where you could be more assertive. Use ‘I’ statements. Using I statements lets others know what you’re thinking or feeling without sounding accusatory. For example, instead of saying “You’re not listening to me,” say “I feel like you’re not listening to me.” Practice saying no. You don’t have to say yes to everything. If someone asks you to do something and you don’t have the time or energy, say no. Rehearse what you want to say. If you’re nervous about a situation, such as giving a speech or asking for a raise, practice what you want to say beforehand.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -1502,7 +1502,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Financial Analysis ",
     indicator: "Pay bills (FI:565) ",
-    text: "\n\nPaying bills refers to the process of making payments to settle a financial obligation. This could include paying a credit card bill, a utility bill, a loan payment, or any other type of bill. The code is a reference to the financial institution that is receiving the payment. This code is used to identify the financial institution and ensure that the payment is sent to the correct place.",
+    text: "\n\nTo pay bills as a business, an employee should first review and verify the accuracy of each bill, including the amount owed and the due date. They should also ensure that the bill is approved for payment by the appropriate person or department within the company. Next, the employee should determine the most appropriate payment method, such as a check, credit card, or online payment. They should also keep track of each payment made and maintain accurate records for accounting and auditing purposes. It is also important to ensure that bills are paid on time to avoid any late fees or penalties. By following these steps, an employee can manage the business's bills effectively, maintain good relationships with vendors and suppliers, and ensure that the company's finances are in order.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -1673,13 +1673,13 @@ export const data: Datashape[] = [
     area: "Instructional Area: Human Resources Management ",
     indicator:
       "Describe the use of technology in human resources management (HR:412) ",
-    text: "\n\nTechnology has become an integral part of human resources management (HR:412). Technology can be used to streamline processes, automate tasks, and improve communication between HR staff and employees. Technology can also be used to track employee performance, manage employee records, and store employee data. Technology can also be used to create and manage employee training programs, as well as to provide employees with access to online resources. Additionally, technology can be used to facilitate recruitment and hiring processes, as well as to provide employees with access to job postings and career development opportunities. Technology can also be used to provide employees with access to benefits and other HR services. Overall, technology has revolutionized the way HR departments operate, making it easier to manage and track employee data, streamline processes, and improve communication.",
+    text: "\n\nTechnology has become an integral part of human resources management. Technology can be used to streamline processes, automate tasks, and improve communication between HR staff and employees. Technology can also be used to track employee performance, manage employee records, and store employee data. Technology can also be used to create and manage employee training programs, as well as to provide employees with access to online resources. Additionally, technology can be used to facilitate recruitment and hiring processes, as well as to provide employees with access to job postings and career development opportunities. Technology can also be used to provide employees with access to benefits and other HR services. Overall, technology has revolutionized the way HR departments operate, making it easier to manage and track employee data, streamline processes, and improve communication.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
     area: "Instructional Area: Human Resources Management ",
     indicator: "Orient new employees (HR:360) ",
-    text: "\n\nOrienting new employees is an important part of the onboarding process. HR:360 is a comprehensive onboarding program that provides new employees with the information and resources they need to be successful in their new role. This includes providing an overview of the company, introducing them to their team, and providing training on company policies and procedures. Additionally, HR:360 can provide resources to help new employees adjust to their new environment, such as mentorship programs, job shadowing, and team building activities. By orienting new employees with HR:360, companies can ensure that their new hires are well-prepared to succeed in their new roles.",
+    text: "\n\nOrienting new employees is an important part of the onboarding process This includes providing an overview of the company, introducing them to their team, and providing training on company policies and procedures. Additionally, you can provide resources to help new employees adjust to their new environment, such as mentorship programs, job shadowing, and team building activities. By orienting new employees, companies can ensure that their new hires are well-prepared to succeed in their new roles.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -2155,7 +2155,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Monitor projects and take corrective actions (OP:520) ",
-    text: "\n\nOP:520 is a process for monitoring projects and taking corrective actions. This process involves regularly assessing the progress of a project and identifying any areas that need improvement. Once identified, corrective actions can be taken to ensure the project is completed on time and within budget. This process also involves tracking the progress of the corrective actions taken and ensuring that they are effective. This helps to ensure that the project is completed successfully and that any issues are addressed in a timely manner.",
+    text: "\n\nOThis process involves regularly assessing the progress of a project and identifying any areas that need improvement. Once identified, corrective actions can be taken to ensure the project is completed on time and within budget. This process also involves tracking the progress of the corrective actions taken and ensuring that they are effective. This helps to ensure that the project is completed successfully and that any issues are addressed in a timely manner.",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -2333,7 +2333,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Monitor and ensure completion of delegated tasks (OP:354) ",
-    text: "\n\nThis prompt refers to the process of monitoring and ensuring that tasks that have been delegated to others are completed in a timely and satisfactory manner. This could involve setting deadlines, providing feedback and guidance, and ensuring that the tasks are completed according to the agreed-upon standards. It is important to ensure that delegated tasks are completed in order to maintain efficiency and productivity in the workplace.",
+    text: "\n\nTo monitor delegated tasks, you should clarify the project, deadlines and milestones in advance and confirm their commitment. You can use collaboration technology such as Google Docs, Slack and Basecamp. Hold weekly meetings to review what’s been accomplished and discuss what has to be done. Encourage employees to ask questions and be available when they need help. Review and monitor progress to ensure successful completion by checking in regularly, providing ongoing support and guidance and showing your appreciation .",
     category: ["MANAGMENT", "MARKETING", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -3024,7 +3024,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Emotional Intelligence ",
     indicator: "Act as the liaison between departments (EI:100) ",
-    text: "\n\nActing as a liaison between departments means that I am responsible for facilitating communication and collaboration between different departments. This includes providing information, coordinating activities, and resolving conflicts. I will be the point of contact for both departments, ensuring that all communication is clear and that any issues are addressed in a timely manner. I will also be responsible for keeping both departments informed of any changes or updates that may affect their operations.",
+    text: "\n\nActing as a liaison between departments means that you are responsible for facilitating communication and collaboration between different departments. This includes providing information, coordinating activities, and resolving conflicts. You will be the point of contact for both departments, ensuring that all communication is clear and that any issues are addressed in a timely manner. You will also be responsible for keeping both departments informed of any changes or updates that may affect their operations.",
     category: ["MANAGMENT"],
   },
   {
@@ -3035,8 +3035,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Financial Analysis ",
-    indicator: "clearing, etc.) (FI:113) ",
-    text: "\n\nClearing is the process of settling a financial transaction between two parties. It involves the exchange of money, securities, or other financial instruments between the two parties. The clearing process is typically handled by a third-party clearinghouse, which acts as an intermediary between the two parties to ensure that the transaction is completed in a timely and secure manner. The clearinghouse also ensures that all parties involved in the transaction are in compliance with applicable laws and regulations.",
+    indicator:
+      "Explain cash control procedures (e.g., signature cards, deposit slips, internal/external controls, cash clearing, etc.) (FI:113) ",
+    text: "\n\nCash control procedures refer to the policies and practices that an organization implements to safeguard its cash and ensure accurate financial reporting. These procedures include the use of signature cards to authorize cash transactions, deposit slips to record incoming cash, and internal and external controls to monitor the movement of cash. Internal controls, such as segregation of duties and regular audits, help to prevent fraud and errors, while external controls, such as bank reconciliation and cash clearing, help to ensure that cash transactions are accurately recorded and accounted for. By implementing effective cash control procedures, organizations can mitigate the risks associated with handling cash and ensure the integrity of their financial reporting.",
     category: ["MANAGMENT", "FINANCE", "HOSPITIALITY"],
   },
   {
@@ -3325,7 +3326,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Re-order/purchase office supplies (OP:360) ",
-    text: "\n\nOP:360 is a process for re-ordering and purchasing office supplies. It involves creating a list of the supplies needed, researching the best prices for the items, and placing an order with a supplier. The process also includes tracking the order, ensuring it is delivered on time, and reconciling the order with the budget. OP:360 is an efficient way to ensure that the office has the supplies it needs without overspending.",
+    text: "\n\nTo re-order or purchase office supplies, an employee should start by reviewing the inventory of existing supplies to determine what needs to be replenished or replaced. They should also consider the budget allocated for office supplies and look for opportunities to save money, such as purchasing in bulk or taking advantage of promotions. Next, the employee should research potential suppliers and compare prices, quality, and delivery times to find the best option for the company's needs. Once a supplier has been selected, the employee can place an order and track the delivery to ensure that the supplies arrive on time and in good condition. By following these steps, an employee can re-order or purchase office supplies effectively, ensuring that the company has the necessary materials to operate efficiently.",
     category: ["MANAGMENT"],
   },
   {
@@ -3337,7 +3338,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Assist with overflow work (OP:231) ",
-    text: "\n\nAssist with overflow work means that I am to help with any extra work that needs to be done. This could include tasks such as data entry, filing, or other administrative tasks. It is important to be organized and efficient when helping with overflow work, as it is often time-sensitive and needs to be completed quickly.",
+    text: "\n\nAssist with overflow work means that you should help with any extra work that needs to be done. This could include tasks such as data entry, filing, or other administrative tasks. It is important to be organized and efficient when helping with overflow work, as it is often time-sensitive and needs to be completed quickly.",
     category: ["MANAGMENT"],
   },
   {
@@ -3410,19 +3411,19 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Code and enter data (OP:347) ",
-    text: "\n\nCode and enter data means that the data needs to be coded and entered into a system using the code OP:347. This code is used to identify the data and ensure that it is entered into the correct place in the system.",
+    text: "\n\nAn employee can code and enter data by using a computer and software programs. The employee can use programming languages such as Python, Java, and C++ to write code. The employee can then use software programs such as Microsoft Excel, Google Sheets, and SQL to enter data. These programs allow the employee to input data into a spreadsheet or database.",
     category: ["MANAGMENT"],
   },
   {
     area: "Instructional Area: Operations ",
     indicator: "Open and distribute office mail/parcels (OP:348) ",
-    text: "\n\nThis task involves opening and distributing office mail/parcels. This includes opening envelopes, sorting mail, and delivering mail/parcels to the appropriate recipients. All mail/parcels must be opened and distributed in accordance with OP:348.",
+    text: "\n\nThis task involves opening and distributing office mail/parcels. This includes opening envelopes, sorting mail, and delivering mail/parcels to the appropriate recipients. All mail/parcels must be opened and distributed in accordance with company specific proceedures.",
     category: ["MANAGMENT"],
   },
   {
     area: "Instructional Area: Operations ",
     indicator: "Update mail/telephone directories (OP:349) ",
-    text: "\n\nThis prompt is referring to the task of updating mail and telephone directories. This could involve updating contact information for individuals and businesses, as well as adding new entries to the directory. This task is important to ensure that the directory is up-to-date and accurate.",
+    text: "\n\nThis could involve updating contact information for individuals and businesses, as well as adding new entries to the directory. This task is important to ensure that the directory is up-to-date and accurate.",
     category: ["MANAGMENT"],
   },
   {
@@ -3434,7 +3435,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Isolate and identify source of technical problem (OP:203) ",
-    text: "\n\nThis prompt is asking to identify and isolate the source of a technical problem. This process involves analyzing the system to determine the cause of the issue, and then isolating the source of the problem so that it can be addressed. This could involve troubleshooting the system, running diagnostics, or examining the system logs to identify the source of the issue. Once the source of the problem has been identified, it can be addressed and the system can be restored to its normal functioning.",
+    text: "\n\nThis process involves analyzing the system to determine the cause of the issue, and then isolating the source of the problem so that it can be addressed. This could involve troubleshooting the system, running diagnostics, or examining the system logs to identify the source of the issue. Once the source of the problem has been identified, it can be addressed and the system can be restored to its normal functioning.",
     category: ["MANAGMENT"],
   },
   {
@@ -3741,7 +3742,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Information Management ",
     indicator:
       "Use statistical data inferences to draw preliminary conclusions (NF:232) ",
-    text: "\n\nThis prompt is asking to use statistical data to draw preliminary conclusions. This means that we should use data from a statistical analysis to make an initial assessment of a situation. This could involve looking at the data to identify patterns or trends, or to compare different sets of data to draw conclusions. By doing this, we can gain insight into the underlying causes of a situation and make informed decisions.",
+    text: "\n\nThis means that we should use data from a statistical analysis to make an initial assessment of a situation. This could involve looking at the data to identify patterns or trends, or to compare different sets of data to draw conclusions. By doing this, we can gain insight into the underlying causes of a situation and make informed decisions.",
     category: ["MANAGMENT", "FINANCE"],
   },
   {
@@ -4162,8 +4163,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Financial Analysis ",
-    indicator: "differential cost, etc.) (FI:658) ",
-    text: "\n\nDifferential cost is a concept used in managerial accounting to compare the costs of two or more alternatives. It is the difference in cost between two alternatives, such as the cost of producing a product using one method versus another. Differential cost analysis helps managers make decisions by comparing the costs of different options and selecting the one that is most cost-effective. This type of analysis can be used to evaluate the cost of producing a product using different materials, different production methods, or different suppliers.",
+    indicator:
+      " Describe types of costs used in managerial accounting (e.g., direct cost, indirect cost, sunk cost, differential cost, etc.) (FI:658) ",
+    text: "\n\nManagerial accounting involves identifying, measuring, analyzing, interpreting, and communicating financial information to support internal decision-making processes. In this context, costs are classified into various categories, including direct costs, indirect costs, sunk costs, differential costs, and others. Direct costs are those that can be attributed directly to a specific product or service, such as raw materials or labor. Indirect costs are those that cannot be directly linked to a specific product or service, such as rent or utility expenses. Sunk costs are those that have already been incurred and cannot be recovered, while differential costs refer to the changes in costs resulting from a specific decision or course of action. By understanding the different types of costs, managers can make informed decisions about pricing, product mix, and resource allocation, among other things.",
     category: ["MANAGMENT", "FINANCE"],
   },
   {
@@ -4453,7 +4455,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Human Resources Management ",
     indicator: "Design a learning module (HR:530) ",
-    text: "\n\nHR:530 is a learning module designed to help employees understand the fundamentals of human resources management. The module will cover topics such as recruitment, selection, training, performance management, compensation and benefits, and labor relations. It will also provide an overview of the legal and ethical considerations related to human resources management. The module will be interactive and include activities, case studies, and simulations to help employees gain a better understanding of the topics. The goal of the module is to equip employees with the knowledge and skills needed to effectively manage human resources in their organization.",
+    text: "\n\nA learning module is designed to help employees understand the fundamentals of a specific skill The module should also include interactive and include activities, case studies, and simulations to help employees gain a better understanding of the topics. ",
     category: ["MANAGMENT"],
   },
   {
@@ -4529,8 +4531,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Human Resources Management ",
-    indicator: "health club membership, etc.) (HR:475) ",
-    text: "\n\nA health club membership is a great way to stay active and healthy. It provides access to a variety of fitness classes, equipment, and amenities such as pools, saunas, and steam rooms. With a membership, you can also take advantage of discounts on personal training, nutrition counseling, and other services. Additionally, many health clubs offer social activities and events to help members stay motivated and connected.",
+    indicator:
+      " Explain the nature of benefit plans (e.g., health insurance, life insurance, educational assistance, health club membership, etc.)  (HR:475) ",
+    text: "\n\nBenefit plans are programs or packages offered by employers to their employees as a form of compensation beyond their regular wages or salary. These benefits can take many forms, including health insurance, life insurance, educational assistance, health club memberships, and more. The nature of benefit plans varies depending on the organization's size, industry, and culture, as well as the needs and preferences of its employees. While some benefits are mandated by law, such as Social Security and Medicare, many other benefits are offered voluntarily by employers to attract and retain talented employees. Benefit plans can enhance employee morale, increase job satisfaction, and contribute to a positive work-life balance, ultimately benefiting both the employees and the organization as a whole.",
     category: ["MANAGMENT"],
   },
   {
@@ -5421,7 +5424,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Quality Management ",
     indicator:
       "Analyze materials and products to achieve quality goals (QM:009) ",
-    text: "\n\nThis prompt refers to the process of analyzing materials and products to ensure that they meet quality goals. This process involves examining the materials and products to identify any potential issues or defects, and then taking corrective action to ensure that the materials and products meet the desired quality standards. This process is important for ensuring that the materials and products are safe and reliable for use.",
+    text: "\n\nRefers to the process of analyzing materials and products to ensure that they meet quality goals. This process involves examining the materials and products to identify any potential issues or defects, and then taking corrective action to ensure that the materials and products meet the desired quality standards. This process is important for ensuring that the materials and products are safe and reliable for use.",
     category: ["MANAGMENT"],
   },
   {
@@ -5716,8 +5719,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Marketing-Information Management ",
-    indicator: "groups, interviews, scanners, tracking tools) (IM:289) ",
-    text: "\n\nGroups, interviews, scanners, and tracking tools are all methods used to collect data. Groups involve gathering a group of people together to discuss a topic or answer questions. Interviews involve one-on-one conversations with individuals to gain insight into their thoughts and opinions. Scanners are used to capture data from physical documents, such as barcodes or QR codes. Tracking tools are used to monitor and record data over time, such as website visits or customer purchases. All of these methods are used to collect data that can be used to make decisions or gain insights.",
+    indicator:
+      "Describe data-collection methods (e.g., observations, mail, diaries, telephone, Internet, discussion groups, interviews, scanners, tracking tools) (IM:289) ",
+    text: "\n\nData-collection methods refer to the various techniques used to gather information or data. There are several methods available, including observations, mail surveys, diaries, telephone surveys, online surveys, discussion groups, interviews, scanners, and tracking tools. Each method has its strengths and weaknesses, and researchers must choose the appropriate method based on the type of data they are collecting and the goals of their study. Some methods, such as interviews and focus groups, allow for in-depth exploration of complex topics, while others, such as online surveys, allow for the collection of large amounts of data quickly and efficiently. Ultimately, the choice of data-collection method will depend on the research questions being asked and the resources available.",
     category: ["MARKETING"],
   },
   {
@@ -5938,7 +5942,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Selling ",
     indicator: "Explain the nature and scope of the selling function (SE:017) ",
     text: "\n\nThe selling function is a critical part of any business. It involves the process of identifying customer needs, developing and presenting solutions to meet those needs, and closing the sale. The nature of the selling function is to create value for customers by providing them with products and services that meet their needs. The scope of the selling function includes activities such as market research, customer segmentation, product development, pricing, promotion, sales force management, and customer service. The selling function is essential for any business to succeed and grow. It is the key to creating and maintaining customer relationships, generating revenue, and increasing profits.",
-    category: ["MARKETING", "HOSPITIALITY"],
+    category: ["MARKETING", "HOSPITIALITY", "ENTREPRENEUR"],
   },
   {
     area: "Instructional Area: Selling ",
@@ -6349,7 +6353,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Marketing-Information Management ",
     indicator: "Track performance of promotional activities (IM:410) ",
-    text: "\n\nIM:410 is a prompt that encourages businesses to track the performance of their promotional activities. This can include tracking the number of people who view an advertisement, the number of people who click on an advertisement, and the number of people who purchase a product or service after seeing an advertisement. By tracking these metrics, businesses can gain insight into which promotional activities are most effective and which ones need to be improved.",
+    text: "\n\nThis can include tracking the number of people who view an advertisement, the number of people who click on an advertisement, and the number of people who purchase a product or service after seeing an advertisement. By tracking these metrics, businesses can gain insight into which promotional activities are most effective and which ones need to be improved. To track the performance of promotional activities, you can use Google Analytics, create a landing page on your website, phone tracking, CRM tracking, and ad network conversion tracking. ",
     category: ["MARKETING"],
   },
   {
@@ -6611,7 +6615,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Promotion ",
     indicator: "Write content for use on the website (PR:370) ",
-    text: "\n\nPR:370 is a public relations and communications agency that specializes in helping businesses and organizations create and maintain a positive public image. We provide a range of services, from media relations and crisis management to content creation and social media strategy. Our team of experienced professionals will work with you to develop a comprehensive plan to ensure that your message is heard and your reputation is protected. With PR:370, you can trust that your public relations needs are in good hands.",
+    text: "\n\n When writing content for a website, an employee should focus on creating engaging and informative content that is relevant to the target audience. This means understanding the needs and interests of the audience and tailoring the content to meet those needs. The employee should also use appropriate keywords and phrases to optimize the content for search engines, while still maintaining readability and avoiding keyword stuffing. Additionally, the content should be well-organized and formatted with headings, bullet points, and images to make it visually appealing and easy to scan. By following these best practices, an employee can create high-quality content that effectively promotes the company's products or services and engages the target audience.",
     category: ["MARKETING"],
   },
   {
@@ -6931,7 +6935,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Selling ",
     indicator: "Acquire knowledge of client's products/brands (SE:360) ",
-    text: "\n\nAcquiring knowledge of a client's products and brands is an important part of providing effective customer service. SE:360 is a tool that can help customer service representatives gain a better understanding of a client's products and brands. SE:360 provides detailed information about the products and brands, including product descriptions, pricing, and availability. This information can help customer service representatives provide accurate and timely answers to customer inquiries. Additionally, SE:360 can help customer service representatives stay up-to-date on the latest product and brand developments, allowing them to provide the best possible customer service.",
+    text: "\n\nTo acquire knowledge of a client's products/brands, an employee should start by conducting research on the client's website, social media profiles, and other relevant online resources. They should also review any available marketing materials or product specifications to gain a deeper understanding of the features and benefits of the products/brands. Additionally, the employee can interview the client or relevant stakeholders to ask questions and gain insights into the unique value propositions of the products/brands. By acquiring a thorough knowledge of the client's products/brands, the employee can better communicate their benefits to potential customers and create more effective marketing materials.",
     category: ["MARKETING"],
   },
   {
@@ -7403,8 +7407,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Marketing-Information Management ",
-    indicator: "intention scales, etc.) (IM:286) ",
-    text: "\n\nIntention scales, also known as attitude scales, are a type of survey used to measure a person's attitude or opinion about a particular topic. They are typically used to measure a person's attitude towards a product, service, or issue. The survey consists of a series of questions that ask the respondent to rate their opinion on a scale from strongly agree to strongly disagree. The responses are then used to measure the respondent's attitude towards the topic. Intention scales are a useful tool for researchers to gain insight into how people feel about a particular topic.",
+    indicator:
+      "Describe types of rating scales (including Likert scales, semantic differential scales, behavior intention scales, etc.)  (IM:286) ",
+    text: "\n\nRating scales are commonly used in research to measure attitudes, opinions, and behaviors. There are several types of rating scales, including Likert scales, semantic differential scales, and behavior intention scales. Likert scales involve asking respondents to rate their agreement or disagreement with a series of statements using a predetermined scale (e.g., strongly agree to strongly disagree). Semantic differential scales involve asking respondents to rate their opinion of a concept or object based on a series of bipolar adjectives (e.g., good-bad, happy-sad). Behavior intention scales are used to measure the likelihood of a person engaging in a specific behavior or action in the future. Other types of rating scales include visual analogue scales and numerical rating scales. Choosing the appropriate rating scale depends on the research question, the type of data being collected, and the characteristics of the population being studied.",
     category: ["MARKETING"],
   },
   {
@@ -7485,7 +7490,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Marketing-Information Management ",
     indicator: "Create data matrix (IM:331) ",
-    text: "\n\nA data matrix is a type of data structure used to store and organize data in a two-dimensional array. It is commonly used in mathematics and computer science to represent a set of data points in a tabular format. In IM:331, a data matrix is used to store and analyze data in order to gain insights into a particular problem or situation. The data matrix can be used to identify patterns, trends, and relationships between different variables. It can also be used to identify correlations between different variables and to make predictions about future outcomes.",
+    text: "\n\nA data matrix is a type of data structure used to store and organize data in a two-dimensional array. It is commonly used in mathematics and computer science to represent a set of data points in a tabular format. A data matrix is used to store and analyze data in order to gain insights into a particular problem or situation. The data matrix can be used to identify patterns, trends, and relationships between different variables. It can also be used to identify correlations between different variables and to make predictions about future outcomes.",
     category: ["MARKETING"],
   },
   {
@@ -7560,7 +7565,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Marketing-Information Management ",
     indicator: "Write executive summary of research report (IM:414) ",
-    text: "\n\nThis research report provides an overview of IM:414, a new software program designed to improve the efficiency of customer service operations. The program is designed to streamline customer service processes, reduce customer wait times, and improve customer satisfaction. The report provides an overview of the software, its features, and its potential benefits. It also provides an analysis of the current customer service landscape and the potential impact of on customer service operations. Finally, the report provides recommendations for implementation and further research. Overall, has the potential to revolutionize customer service operations and improve customer satisfaction.",
+    text: "\n\nWhen writing an executive summary of a research report, an employee should focus on providing a clear and concise overview of the most important findings and recommendations. The summary should be written in a way that is easy to understand and should avoid the use of technical jargon or complex terminology. It should also include a brief introduction to the research question and methodology used. The employee should aim to capture the reader's attention and provide a compelling reason for them to read the full report. Finally, the summary should be proofread carefully to ensure that it is error-free and presents a professional image of the company.",
     category: ["MARKETING"],
   },
   {
@@ -7695,13 +7700,13 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Price mark merchandise (OP:390) ",
-    text: "\n\nPrice mark merchandise is a process in which items are marked with a price tag or sticker to indicate the selling price. OP:390 is the code for the price mark merchandise process, which is used to track the cost of the items. This code is typically used in retail stores to ensure that the correct price is charged for each item.",
+    text: "\n\nTo price mark merchandise, an employee should first determine the cost of the item, including the purchase price, any shipping or handling fees, and any additional expenses associated with obtaining the product. Once the cost has been determined, the employee should consider the desired profit margin, taking into account any overhead expenses, such as rent and employee salaries. Next, the employee should research the competition's prices and factor in the perceived value of the merchandise to the target market. Finally, the employee can apply any promotional discounts or sales to incentivize customers to make a purchase. By following these steps, an employee can price mark merchandise effectively, ensuring that the prices are competitive, profitable, and attractive to customers.",
     category: ["MARKETING"],
   },
   {
     area: "Instructional Area: Operations ",
     indicator: "Make and record price changes (OP:391) ",
-    text: "\n\nThis prompt refers to the process of making and recording changes to the prices of goods or services. This could involve updating prices in a database or spreadsheet, or making changes to the prices listed on a website or in a store. It is important to keep accurate records of any price changes, as this ensures that customers are charged the correct amount for their purchases.",
+    text: "\n\nRefers to the process of making and recording changes to the prices of goods or services. This could involve updating prices in a database or spreadsheet, or making changes to the prices listed on a website or in a store. It is important to keep accurate records of any price changes, as this ensures that customers are charged the correct amount for their purchases.",
     category: ["MARKETING"],
   },
   {
@@ -7731,7 +7736,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Enter product descriptions into a PoS system (OP:398) ",
-    text: "\n\nThis prompt is referring to entering product descriptions into a Point of Sale (POS) system. This is a system used to track sales and inventory in a retail store. The is the code for the product that needs to be entered into the system. This code is used to identify the product and its associated information, such as the product name, price, and description. Once the product is entered into the system, it can be tracked and managed more easily.",
+    text: "\n\nReferring to entering product descriptions into a Point of Sale (POS) system. This is a system used to track sales and inventory in a retail store. The is the code for the product that needs to be entered into the system. This code is used to identify the product and its associated information, such as the product name, price, and description. Once the product is entered into the system, it can be tracked and managed more easily.",
     category: ["MARKETING"],
   },
   {
@@ -7768,7 +7773,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Operations ",
     indicator:
       "Track stock by location for department/class/vendor level (OP:412) ",
-    text: "\n\nis a prompt that instructs a business to track stock by location for department, class, and vendor level. This means that the business should keep track of the stock they have in each department, class, and vendor, and the location of each item. This will help the business to know what stock they have in each location, and how much of each item they have in each location. This will help the business to better manage their inventory and ensure that they have the right amount of stock in each location.",
+    text: "\n\n Businesses should track stock by location for department, class, and vendor level. This means that the business should keep track of the stock they have in each department, class, and vendor, and the location of each item. This will help the business to know what stock they have in each location, and how much of each item they have in each location. This will help the business to better manage their inventory and ensure that they have the right amount of stock in each location.",
     category: ["MARKETING"],
   },
   {
@@ -7880,7 +7885,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Product/Service Management ",
     indicator:
       "Determine final cost of purchases from domestic and international sources (PM:193) ",
-    text: "\n\nThis prompt is asking to calculate the final cost of purchases from both domestic and international sources. This would involve adding up the cost of all purchases from domestic sources, then adding up the cost of all purchases from international sources, and then adding the two totals together to get the final cost. Depending on the type of purchases, additional costs such as taxes, shipping, and duties may need to be taken into account.",
+    text: "\n\nTo calculate the final cost of purchases from both domestic and international sources. This would involve adding up the cost of all purchases from domestic sources, then adding up the cost of all purchases from international sources, and then adding the two totals together to get the final cost. Depending on the type of purchases, additional costs such as taxes, shipping, and duties may need to be taken into account.",
     category: ["MARKETING"],
   },
   {
@@ -7904,7 +7909,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Product/Service Management ",
     indicator: "Determine what to buy/reorder (PM:260) ",
-    text: "\n\nPM:260 is a prompt to determine what to buy or reorder. This could refer to a specific item or items that need to be purchased or reordered for a business or organization. The decision of what to buy or reorder should be based on the current inventory levels, customer demand, and budget. It is important to consider all of these factors when making a decision on what to buy or reorder.",
+    text: "\n\nThis could refer to a specific item or items that need to be purchased or reordered for a business or organization. The decision of what to buy or reorder should be based on the current inventory levels, customer demand, and budget. It is important to consider all of these factors when making a decision on what to buy or reorder.",
     category: ["MARKETING"],
   },
   {
@@ -8350,7 +8355,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Selling ",
     indicator:
       "Respond appropriately to prospect's individual personality type (SE:810) ",
-    text: "\n\nSE:810 is a personality type that is associated with being extroverted, sociable, and energetic. People with this type of personality tend to be outgoing and enjoy being around others. They are often seen as the life of the party and enjoy engaging in activities that involve socializing and being around people. They are also often seen as creative and enthusiastic, and enjoy taking on new challenges. When responding to a prospect with this personality type, it is important to be engaging and enthusiastic, and to focus on the social aspects of the interaction. It is also important to be open to new ideas and to be willing to take on new challenges.",
+    text: "\n\nWhen responding to a prospect, an employee should take into consideration their individual personality type and tailor their approach accordingly. This can be done by first identifying the prospect's personality type through observation, body language, and communication style. For example, some people may prefer direct communication and prefer to get straight to the point, while others may prefer a more relaxed and friendly approach. Once the personality type has been identified, the employee can adjust their communication style, tone, and even the language used to better connect with the prospect. By responding appropriately to the prospect's individual personality type, the employee can build rapport, establish trust, and increase the likelihood of closing the deal.",
     category: ["MARKETING"],
   },
   {
@@ -8370,7 +8375,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Selling ",
     indicator:
       "Question/probe to acquire understanding of prospect [priorities, problems, trends, issues,corporate aims and objectives, processes, buying process and criteria, and trading preferences]\n(SE:484) ",
-    text: "\n\nThe purpose of this prompt is to gain a better understanding of a prospect's priorities, problems, trends, issues, corporate aims and objectives, processes, buying process and criteria, and trading preferences. This can be done by asking questions and probing for more information. By doing this, we can gain a better understanding of the prospect's needs and wants, and how we can best meet them. Additionally, this can help us to identify potential opportunities and areas of improvement that we can focus on to better serve the prospect.",
+    text: "\n\nTo gain a better understanding of a prospect's priorities, problems, trends, issues, corporate aims and objectives, processes, buying process and criteria, and trading preferences. This can be done by asking questions and probing for more information. By doing this, we can gain a better understanding of the prospect's needs and wants, and how we can best meet them. Additionally, this can help us to identify potential opportunities and areas of improvement that we can focus on to better serve the prospect.",
     category: ["MARKETING"],
   },
   {
@@ -8603,7 +8608,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Financial Analysis ",
     indicator: "Calculate the time value of money (FI:238) ",
-    text: "\n\nThe time value of money is a concept that states money has a different value at different points in time. This concept is used to calculate the present value of future cash flows and the future value of current cash flows. It is an important concept in finance, as it helps to determine the value of investments and loans. The formula for calculating the time value of money is FI:238, which is the present value of a future cash flow divided by the future value of the same cash flow.",
+    text: "\n\nThe time value of money is a concept that states money has a different value at different points in time. This concept is used to calculate the present value of future cash flows and the future value of current cash flows. It is an important concept in finance, as it helps to determine the value of investments and loans. The formula for calculating the time value of money is, which is the present value of a future cash flow divided by the future value of the same cash flow.",
     category: ["FINANCE"],
   },
   {
@@ -8926,8 +8931,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Financial Analysis ",
-    indicator: "compensation, etc.) (FI:638) ",
-    text: "\n\nCompensation is the process of providing financial or other forms of remuneration to employees in exchange for their work. It is an important part of the employment relationship, as it helps to ensure that employees are fairly compensated for their efforts and that their work is valued. Compensation can take many forms, including salary, bonuses, stock options, and other forms of benefits. It is important for employers to ensure that their compensation packages are competitive and attractive to potential employees, as this can help to attract and retain the best talent.",
+    indicator:
+      "Explain the nature of payroll expenses (e.g., Social Security tax, Medicare tax, FUTA, SUTA, workers'compensation, etc.) (FI:638) ",
+    text: "\n\nPayroll expenses are the costs associated with compensating employees for their work, including salaries or wages, benefits, and taxes. In the United States, payroll taxes are comprised of Social Security tax, Medicare tax, Federal Unemployment Tax Act (FUTA), and State Unemployment Tax Act (SUTA). Social Security tax and Medicare tax are calculated as a percentage of an employee's gross pay, and the employer is responsible for matching these amounts. FUTA and SUTA are taxes paid by the employer to fund state and federal unemployment insurance programs. In addition to taxes, employers are also responsible for providing workers' compensation insurance, which provides benefits to employees who are injured or become ill as a result of their job. By understanding the nature of payroll expenses, employers can accurately budget for labor costs and comply with relevant laws and regulations.",
     category: ["FINANCE"],
   },
   {
@@ -9974,8 +9980,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Financial Analysis ",
-    indicator: "accounts, depreciation, debt) (FI:449) ",
-    text: "\n\nAccounts, depreciation, and debt are all important financial concepts. Accounts refer to the different types of assets and liabilities that a company holds. Depreciation is an accounting method used to spread the cost of an asset over its useful life. Debt is money that a company owes to creditors. All three of these concepts are important for businesses to understand and manage in order to remain financially healthy.",
+    indicator:
+      "Analyze transactions and accounts (e.g., purchase, sales, sales returns and allowances, uncollectible accounts, depreciation, debt) (FI:449) (FI:449) ",
+    text: "\n\nAnalyzing transactions and accounts is a critical part of financial accounting. This involves examining individual transactions and categorizing them into the appropriate accounts in the general ledger. Some common accounts include purchases, sales, sales returns and allowances, uncollectible accounts, depreciation, and debt. By properly analyzing transactions and accounts, financial analysts can gain a better understanding of an organization's financial performance and make informed decisions about future investments and operations. This process typically involves reviewing source documents, such as invoices and receipts, and entering the relevant information into accounting software or a spreadsheet. Regular analysis of transactions and accounts is necessary to ensure accurate financial reporting and compliance with relevant regulations.",
     category: ["FINANCE"],
   },
   {
@@ -10054,8 +10061,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Risk Management ",
-    indicator: "transactions, financial report filing requirements) (RM:077) ",
-    text: "\n\nTransactions refer to the exchange of goods, services, or money between two or more parties. Financial report filing requirements refer to the regulations that require companies to submit financial reports to the relevant authorities. These reports must include accurate and up-to-date information about the company's financial position, such as income, expenses, assets, and liabilities. The purpose of these filing requirements is to ensure that companies are transparent and accountable to their stakeholders.",
+    indicator:
+      " Identify financial risk factors associated with business contracts (e.g., ratio requirements, restricted transactions, financial report filing requirements) (RM:077) ",
+    text: "\n\nIdentifying financial risk factors associated with business contracts involves analyzing the terms and conditions of the contract to identify potential financial risks that could impact the organization's financial position. Some common financial risk factors to consider include ratio requirements, restricted transactions, and financial report filing requirements. Ratio requirements may require the organization to maintain certain financial ratios, such as debt-to-equity or current ratio, which could impact the organization's ability to meet its financial obligations. Restricted transactions may limit the organization's ability to use its resources in certain ways, which could impact its ability to generate revenue or manage cash flow. Financial report filing requirements may require the organization to provide regular financial reports to investors or regulators, which could impact its reputation or ability to access funding. By identifying these financial risk factors and taking steps to mitigate them, organizations can reduce the likelihood of financial losses and ensure long-term financial stability.",
     category: ["FINANCE"],
   },
   {
@@ -10082,7 +10090,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Risk Management ",
     indicator:
       "Establish processes for timely reporting of required information (RM:083) ",
-    text: "\n\nThis prompt is asking for the establishment of processes for the timely reporting of required information. This could include setting up a system for tracking and reporting deadlines, creating a timeline for when reports should be submitted, and ensuring that all necessary information is collected and reported in a timely manner. Additionally, it is important to ensure that the reporting process is efficient and effective, and that any changes to the reporting requirements are communicated to all relevant parties.",
+    text: "\n\nThis could include setting up a system for tracking and reporting deadlines, creating a timeline for when reports should be submitted, and ensuring that all necessary information is collected and reported in a timely manner. Additionally, it is important to ensure that the reporting process is efficient and effective, and that any changes to the reporting requirements are communicated to all relevant parties.",
     category: ["FINANCE"],
   },
   {
@@ -10173,7 +10181,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Determine client's insurance needs (OP:454) ",
-    text: "\n\nThis prompt is asking to determine the insurance needs of a client. This involves assessing the client's current financial situation and any potential risks they may face in the future. It is important to consider the client's income, assets, liabilities, and any other factors that may affect their ability to pay for insurance. Additionally, it is important to consider the type of insurance coverage the client needs, such as life, health, auto, home, and other types of insurance. Once the client's insurance needs have been determined, the next step is to find the best insurance policy to meet those needs.",
+    text: "\n\nThis involves assessing the client's current financial situation and any potential risks they may face in the future. It is important to consider the client's income, assets, liabilities, and any other factors that may affect their ability to pay for insurance. Additionally, it is important to consider the type of insurance coverage the client needs, such as life, health, auto, home, and other types of insurance. Once the client's insurance needs have been determined, the next step is to find the best insurance policy to meet those needs.",
     category: ["FINANCE"],
   },
   {
@@ -10198,7 +10206,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Operations ",
     indicator:
       "Interview claimant, witnesses, medical experts, and/or other individuals as necessary whileprocessing the claim (OP:290) ",
-    text: "\n\nOP:290 is a process for interviewing individuals related to a claim. This includes the claimant, witnesses, medical experts, and other individuals who may have relevant information. The purpose of the interviews is to gather evidence and information to help process the claim. The interviews should be conducted in a professional manner, and all information should be documented and kept confidential.",
+    text: "\n\nIs a process for interviewing individuals related to a claim. This includes the claimant, witnesses, medical experts, and other individuals who may have relevant information. The purpose of the interviews is to gather evidence and information to help process the claim. The interviews should be conducted in a professional manner, and all information should be documented and kept confidential.",
     category: ["FINANCE"],
   },
   {
@@ -10527,8 +10535,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Financial Analysis ",
-    indicator: "future dividends, the expected rate of return, etc.) (FI:367) ",
-    text: "\n\nFuture dividends refer to the expected cash payments that a company will make to its shareholders in the future. The expected rate of return is the expected rate of return that investors can expect to receive from their investments in the company. This rate of return is based on the company's past performance, current financial situation, and future prospects. It is important to understand the expected rate of return when making an investment decision, as it can help investors determine the potential risk and reward associated with the investment.",
+    indicator:
+      "Calculate stock-related values (e.g., the value of a constant growth stock, the expected value of future dividends, the expected rate of return, etc.) (FI:367) ",
+    text: "\n\nCalculating stock-related values is an important part of financial analysis and investment decision-making. The value of a constant growth stock can be calculated using the dividend discount model, which involves discounting the expected future cash flows of the stock at the investor's required rate of return. The expected value of future dividends can be calculated by estimating the future dividend payments and discounting them to their present value. The expected rate of return can be calculated by combining the expected future dividend payments and the expected stock price appreciation and dividing by the current stock price. Other stock-related values to calculate include the price-earnings ratio, earnings per share, and book value per share. Accurate calculations of these values are important for making informed investment decisions and managing investment portfolios.",
     category: ["FINANCE"],
   },
   {
@@ -10605,7 +10614,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Financial Analysis ",
     indicator:
       "Choose investments based on security's technical analysis (FI:669) ",
-    text: "\n\nTechnical analysis is a method of evaluating investments based on past price movements and trading volume. When analyzing a security, such as FI:669, technical analysis looks at the historical price and volume data to identify patterns and trends that can be used to predict future price movements. Technical analysis can be used to identify potential entry and exit points for investments, as well as to assess the overall strength of the security. By using technical analysis, investors can make more informed decisions about when to buy or sell a security.",
+    text: "\n\nTechnical analysis is a method of evaluating investments based on past price movements and trading volume. When analyzing a security, technical analysis looks at the historical price and volume data to identify patterns and trends that can be used to predict future price movements. Technical analysis can be used to identify potential entry and exit points for investments, as well as to assess the overall strength of the security. By using technical analysis, investors can make more informed decisions about when to buy or sell a security.",
     category: ["FINANCE"],
   },
   {
@@ -10651,8 +10660,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Information Management ",
-    indicator: "forums, listserves, website, social media) (NF:219) ",
-    text: "\n\nForums, listserves, websites, and social media are all forms of online communication. Forums are online discussion boards where users can post topics and reply to other users' posts. Listserves are email-based discussion groups where users can send emails to the group and receive emails from other members. Websites are online pages that provide information, resources, and services. Social media are online platforms that allow users to connect with each other and share content.",
+    indicator:
+      "how to Obtain investment information from online sources (e.g., search engines, online databases, blogs, forums, listserves, website, social media) (NF:219) ",
+    text: "\n\nObtaining investment information from online sources can be a convenient and efficient way to stay up-to-date on the latest market trends, news, and analysis. One can use search engines like Google or Yahoo to search for information related to specific stocks or investment strategies. Online databases such as Morningstar, Bloomberg, or Yahoo Finance can provide detailed financial information and analysis on individual stocks and investment funds. Blogs and forums can provide valuable insights and opinions from experts and other investors. Listserves and social media groups can connect one with like-minded investors and provide access to timely news and analysis. It is important to evaluate the credibility of online sources and consider multiple perspectives before making investment decisions based on online information.",
     category: ["FINANCE"],
   },
   {
@@ -11052,7 +11062,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Financial Analysis ",
     indicator: "Calculate credit-card processing costs (FI:790) ",
-    text: "\n\nFI:790 is a code used to calculate the cost of processing credit card payments. This cost is typically a percentage of the total transaction amount, plus a flat fee. The exact cost will vary depending on the type of card used, the merchant's processing agreement, and other factors. To calculate the cost of processing credit card payments, merchants should contact their payment processor for more information.",
+    text: "\n\nTo calculate credit card processing costs, an employee should first identify the various fees associated with credit card processing, including interchange fees, assessment fees, and processor fees. Interchange fees are charged by the card-issuing bank and are typically a percentage of the transaction amount. Assessment fees are charged by the card networks, such as Visa or Mastercard, and are also typically a percentage of the transaction amount. Processor fees are charged by the payment processor and may include a per-transaction fee or a monthly fee. Once all the fees have been identified, the employee can calculate the total cost of processing credit card transactions by adding up all the fees for a given time period, such as a day, week, or month. By calculating credit card processing costs, the employee can better understand the impact of credit card transactions on the company's profitability and identify opportunities to reduce costs.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -11113,14 +11123,14 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Information Management ",
     indicator:
-      "mail, telephone, Internet, discussion groups, interviews) (NF:283) ",
-    text: "\n\nThe five methods of communication listed in the prompt are all ways of exchanging information between two or more people. Mail is a physical form of communication, where written messages are sent through the postal service. Telephone is a form of verbal communication, where two or more people can talk to each other over the phone. Internet is a digital form of communication, where messages can be sent and received over the internet. Discussion groups are a form of online communication, where people can discuss topics and exchange ideas in a group setting. Interviews are a form of face-to-face communication, where two or more people can ask and answer questions in order to gain information.",
+      "Describe methods used to collect hospitality and tourism business information (e.g., observations, mail, telephone, Internet, discussion groups, interviews) (NF:283) ",
+    text: "\n\nThere are several methods used to collect hospitality and tourism business information. These include observations, mail, telephone, internet, discussion groups, and interviews. Observations can be done by observing the behavior of customers and employees. Mail can be used to send surveys to customers. Telephone can be used to conduct surveys and interviews. Internet can be used to collect data from online surveys and social media. Discussion groups can be used to gather information from customers and employees. Interviews can be conducted with customers, employees, and industry experts.",
     category: ["HOSPITIALITY"],
   },
   {
     area: "Instructional Area: Information Management ",
     indicator: "Obtain business information from customer databases (NF:284) ",
-    text: "\n\nThis prompt is referring to the process of obtaining business information from customer databases. This can be done by using software that is designed to access customer databases and extract the necessary information. This information can then be used to create reports, analyze customer trends, and make informed decisions about the business. By obtaining business information from customer databases, businesses can better understand their customers and make more informed decisions.",
+    text: "\n\n This can be done by using software that is designed to access customer databases and extract the necessary information. This information can then be used to create reports, analyze customer trends, and make informed decisions about the business. By obtaining business information from customer databases, businesses can better understand their customers and make more informed decisions.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -11369,8 +11379,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Risk Management ",
-    indicator: "indicators, key process indicators) (RM:088) ",
-    text: "\n\nIndicators and Key Process Indicators (KPIs) are metrics used to measure the performance of a process or system. Indicators are typically used to measure the overall performance of a process or system, while KPIs are used to measure the performance of specific processes or activities within a system. Indicators and KPIs can provide valuable insights into the effectiveness of a process or system, helping to identify areas for improvement and ensure that the process or system is running as efficiently as possible.",
+    indicator:
+      " Describe types of indicators used to manage business risk (e.g., key risk indicators, key performance indicators, key process indicators) (RM:088) ",
+    text: "\n\nTo manage business risk, companies use a variety of indicators to monitor and evaluate their operations. Key risk indicators (KRIs) are used to identify potential risks that could impact the organization's goals or objectives. These indicators could include metrics such as customer complaints, employee turnover, or supplier performance. Key performance indicators (KPIs) are used to measure progress towards specific business objectives or goals. Examples of KPIs include revenue growth, profit margins, or customer satisfaction scores. Key process indicators (KPIs) are used to measure the effectiveness and efficiency of specific business processes. Examples of KPIs include order fulfillment time, inventory turnover, or production cycle time. By monitoring these indicators, organizations can identify potential areas of risk and take proactive measures to mitigate those risks, improve business performance, and achieve their goals.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -11502,7 +11513,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Human Resources Management ",
     indicator: "Evaluate event volunteer needs (HR:563) ",
-    text: "\n\nis a prompt to evaluate the volunteer needs for an event. This involves assessing the number of volunteers needed, the types of tasks they will be responsible for, and the qualifications and skills required for each role. It also involves determining the best way to recruit volunteers, such as through online postings, word of mouth, or other methods. Finally, it involves creating a plan to manage the volunteers, such as assigning roles, providing training, and tracking progress.",
+    text: "\n\nThis involves assessing the number of volunteers needed, the types of tasks they will be responsible for, and the qualifications and skills required for each role. It also involves determining the best way to recruit volunteers, such as through online postings, word of mouth, or other methods. Finally, it involves creating a plan to manage the volunteers, such as assigning roles, providing training, and tracking progress.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -11867,7 +11878,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Project Management ",
     indicator: "Check signage/displays (PJ:065) ",
-    text: "\n\nCheck signage/displays is a prompt that encourages people to be aware of the signage and displays in their environment. This could include signs, posters, banners, or other visual displays that provide information or instructions. It is important to be aware of these signs and displays in order to ensure safety and compliance with regulations.",
+    text: "\n\nCheck signage/displays encourages people to be aware of the signage and displays in their environment. This could include signs, posters, banners, or other visual displays that provide information or instructions. It is important to be aware of these signs and displays in order to ensure safety and compliance with regulations.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -11908,8 +11919,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Project Management ",
-    indicator: "carpeting, etc.) (PJ:075) ",
-    text: "\n\nCarpeting, etc. refers to any type of flooring material that is used to cover the floor of a room or building. This includes carpets, rugs, tiles, hardwood, laminate, vinyl, and other types of flooring. Carpeting is a popular choice for many homeowners because it is comfortable, durable, and relatively easy to maintain. It also comes in a variety of colors and textures, making it easy to find a style that fits the décor of any room.",
+    indicator:
+      "Tear down event areas (banquet rooms, meeting rooms, tents, temporary seating, staging, carpeting, etc.) (PJ:075) ",
+    text: "\n\nTearing down event areas such as banquet rooms, meeting rooms, tents, temporary seating, staging, and carpeting involves a coordinated effort to safely and efficiently remove all event-related materials and equipment. The first step is to remove all decorations, lighting fixtures, and audiovisual equipment. Next, any temporary seating, stages, or other structures are dismantled and removed. Carpeting and other flooring materials are then rolled up and removed, and any remaining debris or trash is collected and disposed of. The event space is then cleaned thoroughly, and all furniture and equipment are returned to their proper storage locations. Finally, a post-event inspection is conducted to identify any damage or maintenance issues that need to be addressed. By following these steps, event organizers can ensure that event areas are returned to their original condition and ready for the next event.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -12330,7 +12342,7 @@ export const data: Datashape[] = [
     area: "Instructional Area: Operations ",
     indicator:
       "agencies, property direct reservation channels, central reservation system, affiliate and nonaffiliate networks, Internet, etc.) (OP:555) ",
-    text: "\n\nThe prompt is referring to the various channels through which a property can be booked. Agencies are travel agents or tour operators who book rooms on behalf of their customers. Property direct reservation channels are those that are managed directly by the property, such as their own website or call center. Central reservation systems are third-party systems that allow properties to manage their bookings from multiple sources. Affiliate and nonaffiliate networks are websites that offer bookings for multiple properties, such as Expedia or Booking.com. Finally, the Internet is the most common channel for booking properties, with customers being able to book directly on the property's website or through third-party websites.",
+    text: "\n\nAgencies are travel agents or tour operators who book rooms on behalf of their customers. Property direct reservation channels are those that are managed directly by the property, such as their own website or call center. Central reservation systems are third-party systems that allow properties to manage their bookings from multiple sources. Affiliate and nonaffiliate networks are websites that offer bookings for multiple properties, such as Expedia or Booking.com. Finally, the Internet is the most common channel for booking properties, with customers being able to book directly on the property's website or through third-party websites.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -12366,7 +12378,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Operations ",
     indicator: "Assign guest rooms for cleaning (OP:563) ",
-    text: "\n\nThis prompt is asking for a plan to assign guest rooms for cleaning. The plan should include which rooms need to be cleaned, who will be responsible for cleaning them, and when they should be cleaned. It is important to ensure that all guest rooms are cleaned in a timely manner and that the cleaning staff is aware of their duties. Additionally, the plan should include a system for tracking the progress of the cleaning and any special instructions that need to be followed.",
+    text: "\n\nThe plan should include which rooms need to be cleaned, who will be responsible for cleaning them, and when they should be cleaned. It is important to ensure that all guest rooms are cleaned in a timely manner and that the cleaning staff is aware of their duties. Additionally, the plan should include a system for tracking the progress of the cleaning and any special instructions that need to be followed.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -12417,7 +12429,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Professional Development ",
     indicator: "Explain the nature of front office operations (PD:360) ",
-    text: "\n\nFront office operations refer to the activities that take place in the customer-facing areas of a business. This includes customer service, sales, marketing, and other activities that involve interacting with customers. PD:360 is a software platform that helps businesses manage their front office operations. It provides tools to help streamline customer service, sales, and marketing processes, as well as tools to help manage customer relationships. It also provides analytics to help businesses better understand their customers and their needs.",
+    text: "\n\nFront office operations refer to the activities and processes that take place at the front of a business, such as reception, customer service, and sales. These operations are essential for creating a positive customer experience and establishing a professional image of the business. Front office staff are responsible for greeting and assisting customers, answering inquiries, providing information, and handling transactions. They must possess excellent communication and customer service skills, as well as be knowledgeable about the company's products or services. In addition to providing excellent customer service, front office operations must also be efficient and effective to maximize productivity and profitability.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -12650,7 +12662,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Financial Analysis ",
     indicator: "Calculate food product total cost (FI:822) ",
-    text: "\n\nTo calculate the total cost of a food product, you need to add up the cost of all the ingredients used in the product, plus any additional costs such as packaging, shipping, and labor. The total cost should be calculated using the formula FI:822, which takes into account the cost of the ingredients, the cost of any additional costs, and the cost of the product itself. Once the total cost is calculated, it can be used to determine the price of the product.",
+    text: "\n\nTo calculate the total cost of a food product, an employee should consider all the costs associated with producing and serving the item. This includes the cost of ingredients, labor, packaging, and any overhead expenses, such as rent or utilities. The employee should also factor in any waste or spoilage that may occur during the production or serving process. Once all the costs have been identified, the employee can calculate the total cost per unit of the food product by dividing the total cost by the number of units produced or served. This information can then be used to determine the appropriate selling price for the food product to ensure that it is profitable while also remaining competitive with similar items in the market. By calculating the total cost of a food product, an employee can make informed decisions about pricing, production, and inventory management.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -13452,14 +13464,14 @@ export const data: Datashape[] = [
     area: "Instructional Area: Operations ",
     indicator:
       "Take and confirm reservations for travel and tourism services (OP:661) ",
-    text: "\n\nThis prompt refers to the job of taking and confirming reservations for travel and tourism services. This job involves taking customer requests for travel and tourism services, such as hotel reservations, car rentals, and flights, and then confirming the reservations with the appropriate service provider. The job also involves providing customers with information about the services they have requested and ensuring that all reservations are accurate and up to date.",
+    text: "\n\nThis job involves taking customer requests for travel and tourism services, such as hotel reservations, car rentals, and flights, and then confirming the reservations with the appropriate service provider. The job also involves providing customers with information about the services they have requested and ensuring that all reservations are accurate and up to date.",
     category: ["HOSPITIALITY"],
   },
   {
     area: "Instructional Area: Operations ",
     indicator:
       "Book tickets with hospitality and tourism service providers (OP:662) ",
-    text: "\n\nBooking tickets with hospitality and tourism service providers is a service that allows customers to purchase tickets for events, attractions, and activities related to hospitality and tourism. This service provides customers with a convenient and secure way to purchase tickets online, as well as access to exclusive discounts and offers. Customers can also use the service to book hotels, flights, and other travel services. With OP:662, customers can easily find the best deals and save time and money when booking their next trip.",
+    text: "\n\nBooking tickets with hospitality and tourism service providers is a service that allows customers to purchase tickets for events, attractions, and activities related to hospitality and tourism. This service provides customers with a convenient and secure way to purchase tickets online, as well as access to exclusive discounts and offers. Customers can also use the service to book hotels, flights, and other travel services.",
     category: ["HOSPITIALITY"],
   },
   {
@@ -14067,7 +14079,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Entrepreneurship ",
     indicator: "Determine opportunities for venture creation (EN:004) ",
-    text: "\n\nDetermine opportunities for venture creation is a prompt that encourages individuals to identify potential business opportunities that could be turned into a successful venture. This could include researching the market to identify unmet needs or gaps in the market, analyzing the competition, and developing a business plan that outlines the venture's goals and objectives. Additionally, individuals should consider the resources and capital needed to launch the venture, as well as the potential risks and rewards associated with the venture.",
+    text: "\n\nDetermine opportunities for venture creation is method that encourages individuals to identify potential business opportunities that could be turned into a successful venture. This could include researching the market to identify unmet needs or gaps in the market, analyzing the competition, and developing a business plan that outlines the venture's goals and objectives. Additionally, individuals should consider the resources and capital needed to launch the venture, as well as the potential risks and rewards associated with the venture.",
     category: ["ENTREPRENEUR"],
   },
   {
@@ -14680,8 +14692,9 @@ export const data: Datashape[] = [
   },
   {
     area: "Instructional Area: Operations ",
-    indicator: "business design, sustainability) (OP:477) ",
-    text: "\n\nBusiness design and sustainability go hand in hand. Business design is the process of creating a business model that is both profitable and sustainable. This means that the business must be able to generate enough revenue to cover its costs and still have enough left over to reinvest in the business. Sustainable businesses are those that are able to maintain their operations and profitability over the long term. This includes taking into account environmental, social, and economic factors. Sustainable businesses are also able to adapt to changing market conditions and customer needs. By designing a business model that is both profitable and sustainable, businesses can ensure their long-term success.",
+    indicator:
+      "Explain the impact of supply chain on business performance (e.g., value, customer satisfaction, business design, sustainability) (OP:477) ",
+    text: "\n\nThe supply chain plays a critical role in determining business performance in terms of value, customer satisfaction, business design, and sustainability. By optimizing supply chain operations, businesses can reduce costs, improve quality, and enhance delivery performance, ultimately adding value for customers. A well-designed supply chain can provide businesses with a competitive advantage by enabling faster and more efficient delivery of products and services. Customer satisfaction can also be improved by providing a reliable and efficient supply chain that meets their needs and expectations. In addition, sustainable supply chain practices can help businesses reduce their environmental impact, improve social responsibility, and increase long-term profitability. Overall, the supply chain has a significant impact on business performance, and businesses that can effectively manage their supply chain operations can achieve sustainable growth and success in the marketplace.",
     category: ["ENTREPRENEUR"],
   },
   {
@@ -14852,7 +14865,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Product/Service Management ",
     indicator: "Adjust idea to create functional product (PM:204) ",
-    text: "\n\nThis prompt is asking to adjust an idea to create a functional product. This could involve taking an existing idea and making changes to it to make it more useful or taking an existing product and making changes to it to make it more functional. This could involve adding features, changing the design, or making other changes to the product to make it more useful. The goal is to create a product that is more functional and useful than the original idea or product.",
+    text: "\n\nThis could involve taking an existing idea and making changes to it to make it more useful or taking an existing product and making changes to it to make it more functional. This could involve adding features, changing the design, or making other changes to the product to make it more useful. The goal is to create a product that is more functional and useful than the original idea or product.",
     category: ["ENTREPRENEUR"],
   },
   {
@@ -14876,7 +14889,7 @@ export const data: Datashape[] = [
   {
     area: "Instructional Area: Product/Service Management ",
     indicator: "Determine services to provide customers (PM:036) ",
-    text: "\n\nThis prompt is asking you to determine what services you will provide to your customers. This could include anything from product or service offerings, customer support, or any other services that you think your customers would benefit from. You should consider the needs of your customers and what they are looking for when deciding what services to provide. Additionally, you should consider the cost of providing these services and how they will impact your bottom line.",
+    text: "\n\nThis could include anything from product or service offerings, customer support, or any other services that you think your customers would benefit from. You should consider the needs of your customers and what they are looking for when deciding what services to provide. Additionally, you should consider the cost of providing these services and how they will impact your bottom line.",
     category: ["ENTREPRENEUR"],
   },
   {
@@ -14908,13 +14921,6 @@ export const data: Datashape[] = [
     area: "Instructional Area: Product/Service Management ",
     indicator: "Build product/service brand (PM:209) ",
     text: "\n\nBuilding a product or service brand involves creating a unique identity that sets it apart from competitors. This includes developing a brand name, logo, tagline, and other visual elements that will be used to represent the product or service. Additionally, it involves creating a brand story and messaging that resonates with the target audience, as well as developing a comprehensive marketing strategy to promote the brand. Ultimately, the goal is to create a strong and recognizable brand that customers will associate with quality and trust.",
-    category: ["ENTREPRENEUR"],
-  },
-  {
-    area: "Instructional Area: Selling ",
-    indicator:
-      "Explain the nature and scope of the selling function (SE:017) (CS)",
-    text: "\n\nThe selling function is a critical part of any business, as it is responsible for generating revenue and driving growth. The nature of the selling function is to identify customer needs, develop solutions to meet those needs, and then market and sell those solutions. The scope of the selling function includes activities such as market research, product development, pricing, promotion, sales, and customer service. It is important for businesses to have a well-defined selling process in order to maximize sales and ensure customer satisfaction. The selling function is also responsible for building relationships with customers and maintaining customer loyalty.",
     category: ["ENTREPRENEUR"],
   },
 ];
