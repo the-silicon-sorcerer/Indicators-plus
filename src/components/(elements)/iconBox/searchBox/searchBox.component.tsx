@@ -36,7 +36,9 @@ const SearchBox = ({
   const onSubmit = (e: React.ChangeEvent<HTMLFormElement>) => {
     e.preventDefault();
     setSearch(true);
-    router.push(`${url}/${inputRef.current.value.trim()}/1`);
+    router.push(
+      `${url}/${inputRef.current.value.trim().replace(/\//g, "%2F")}/1`
+    );
   };
 
   return (

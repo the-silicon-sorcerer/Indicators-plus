@@ -9,7 +9,9 @@ const AreaLayout = ({
   params: { query: string[] };
 }) => {
   const title = generateAreaName(
-    params.query[0]!.replace(/%20/g, " ").replace(/%3A/g, ":")
+    params.query[0]!.replace(/%20/g, " ")
+      .replace(/%3A/g, ":")
+      .replace(/%2F/g, "/")
   );
 
   return (

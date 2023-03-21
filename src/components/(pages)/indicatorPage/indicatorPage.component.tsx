@@ -31,12 +31,24 @@ const IndicatorPage = async ({
   const param = all
     ? {
         indicator: {
-          contains: query ? query.replace(/%20/g, " ") : " ",
+          contains: query
+            ? query
+                .replace(/%20/g, " ")
+                .replace(/%3A/g, ":")
+                .replace(/%2F/g, "/")
+                .replace(/\([A-Z][A-Z]\)$/, "")
+            : " ",
         },
       }
     : {
         indicator: {
-          contains: query ? query.replace(/%20/g, " ") : " ",
+          contains: query
+            ? query
+                .replace(/%20/g, " ")
+                .replace(/%3A/g, ":")
+                .replace(/%2F/g, "/")
+                .replace(/\([A-Z][A-Z]\)$/, "")
+            : " ",
         },
         ...(area && { areaId: area }),
         ...(category && { Categories: { some: { name: category } } }),

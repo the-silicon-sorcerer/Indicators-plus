@@ -48,14 +48,6 @@ a:active {
 
 /* GLOBAL STYLES  */
 
-* {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
 html {
   color-scheme: light;
 }
@@ -223,7 +215,7 @@ input:focus {
     font-size: 16px;
   }
 }
-
+/* 
 @media screen and (min-width: 320px) and (max-width: 767px) and (orientation: landscape) {
   html {
     background-color: black;
@@ -231,4 +223,4 @@ input:focus {
   body {
     display: none;
   }
-}
+} */

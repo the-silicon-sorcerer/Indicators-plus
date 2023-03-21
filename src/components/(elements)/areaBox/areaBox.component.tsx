@@ -18,7 +18,7 @@ const AreaBox = ({ area, indicators }: AreaBoxProps) => {
   };
 
   return (
-    <Link href={`/area/${area}/1`}>
+    <Link href={`/area/${area.replace(/\//g, "%2F")}/1`}>
       <div className={style.container}>
         <div className={style.text}>
           <p className="body-B-Medium">{`${generateAreaName(area)}`}</p>
