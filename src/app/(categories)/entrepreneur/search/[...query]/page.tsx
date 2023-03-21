@@ -5,7 +5,9 @@ const MarketingSearchPage = async ({
 }: {
   params: { query: string[] };
 }) => {
-  const query = params.query[0]!.replace(/%20/g, " ").replace(/SLASH/g, "/");
+  const query = params.query[0]!.replace(/%20/g, " ")
+    .replace(/SLASH/g, "/")
+    .replace(/%2C/g, ",");
 
   return (
     // @ts-expect-error server component

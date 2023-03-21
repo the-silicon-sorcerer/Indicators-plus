@@ -36,6 +36,8 @@ const IndicatorPage = async ({
                 .replace(/%20/g, " ")
                 .replace(/%3A/g, ":")
                 .replace(/SLASH/g, "/")
+                .replace(/%2C/g, ",")
+                .replace(/\(e\.g\..*\)$/, "")
                 .replace(/\([A-Z][A-Z]\)$/, "")
             : " ",
         },
@@ -47,6 +49,8 @@ const IndicatorPage = async ({
                 .replace(/%20/g, " ")
                 .replace(/%3A/g, ":")
                 .replace(/SLASH/g, "/")
+                .replace(/%2C/g, ",")
+                .replace(/\(e\.g\..*\)$/, "")
                 .replace(/\([A-Z][A-Z]\)$/, "")
             : " ",
         },

@@ -5,8 +5,11 @@ const AreaSearchPage = async ({ params }: { params: { query: string[] } }) => {
 
   const area = params.query[0]!.replace(/%20/g, " ")
     .replace(/%3A/g, ":")
-    .replace(/SLASH/g, "/");
-  const query = params.query[1]!.replace(/%20/g, " ").replace(/SLASH/g, "/");
+    .replace(/SLASH/g, "/")
+    .replace(/%2C/g, ",");
+  const query = params.query[1]!.replace(/%20/g, " ")
+    .replace(/SLASH/g, "/")
+    .replace(/%2C/g, ",");
 
   return (
     // @ts-expect-error server component

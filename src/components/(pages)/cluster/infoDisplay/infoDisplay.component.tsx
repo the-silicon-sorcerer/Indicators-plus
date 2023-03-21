@@ -52,10 +52,9 @@ const InfoDisplay = ({
         <p className="body-Small">
           {noResults
             ? `No results found for "${results}" :(`
-            : `(${tot}) Search results for “${results.replace(
-                /%3A/g,
-                ":"
-              )}” : `}
+            : `(${tot}) Search results for “${results
+                .replace(/%3A/g, ":")
+                .replace(/%2C/g, ",")}” : `}
         </p>
       )}
       <SearchBox url={searchUrl} before outline>

@@ -1,7 +1,11 @@
 import IndicatorPage from "../../../../components/(pages)/indicatorPage/indicatorPage.component";
 
 const SearchPage = ({ params }: { params: { query: string[] } }) => {
-  const url = params.query[0]!.replace(/%20/g, " ").replace(/%3A/g, ":");
+  const url = params.query[0]!.replace(/%20/g, " ")
+    .replace(/%3A/g, ":")
+    .replace(/%2C/g, ",")
+    .replace(/SLASH/g, "/")
+    .replace(/%2C/g, ",");
 
   return (
     // @ts-expect-error server component

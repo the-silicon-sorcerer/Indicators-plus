@@ -37,7 +37,10 @@ const SearchBox = ({
     e.preventDefault();
     setSearch(true);
     router.push(
-      `${url}/${inputRef.current.value.trim().replace(/\//g, "SLASH")}/1`
+      `${url}/${inputRef.current.value
+        .trim()
+        .replace(/\//g, "SLASH")
+        .replace(/\,/g, "%2C")}/1`
     );
   };
 
