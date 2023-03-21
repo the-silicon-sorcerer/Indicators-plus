@@ -18,7 +18,7 @@ const MarketingSearchPage = async ({
       query={params.query[0]}
       color="var(--entrepreneurGrey)"
       searchUrl="entrepreneur/search"
-      baseUrl={`entrepreneur/search/${query}`}
+      baseUrl={`entrepreneur/search/${query.replace(/\//g, "SLASH")}`}
       category="ENTREPRENEUR"
     />
   );

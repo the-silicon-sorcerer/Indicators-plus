@@ -15,7 +15,7 @@ const SearchPage = ({ params }: { params: { query: string[] } }) => {
       page={params.query[1]!}
       color="var(--darkBlue)"
       searchUrl={`/search`}
-      baseUrl={`search/${url}`}
+      baseUrl={`search/${url.replace(/\//g, "SLASH")}`}
       all
     />
   );

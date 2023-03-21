@@ -12,7 +12,7 @@ const AreaPage = ({ params }: { params: { area: string[] } }) => {
       page={params.area[1]!}
       color="var(--entrepreneurGrey)"
       searchUrl={`area/search/${url}`}
-      baseUrl={`area/${url}`}
+      baseUrl={`area/${url.replace(/\//g, "SLASH")}`}
       area={url}
     />
   );

@@ -22,7 +22,7 @@ const MarketingSearchPage = async ({
       query={params.query[0]}
       color="var(--financeGreen)"
       searchUrl="finance/search"
-      baseUrl={`finance/search/${query}`}
+      baseUrl={`finance/search/${query.replace(/\//g, "SLASH")}`}
       category="FINANCE"
     />
   );

@@ -18,7 +18,7 @@ const MarketingSearchPage = async ({
       query={params.query[0]}
       color="var(--hospitalityBlue)"
       searchUrl="hospitality/search"
-      baseUrl={`hospitality/search/${query}`}
+      baseUrl={`hospitality/search/${query.replace(/\//g, "SLASH")}`}
       category="HOSPITIALITY"
     />
   );
