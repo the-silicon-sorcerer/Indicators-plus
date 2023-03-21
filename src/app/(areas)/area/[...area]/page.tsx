@@ -3,7 +3,7 @@ import IndicatorPage from "../../../../components/(pages)/indicatorPage/indicato
 const AreaPage = ({ params }: { params: { area: string[] } }) => {
   const url = params.area[0]!.replace(/%20/g, " ")
     .replace(/%3A/g, ":")
-    .replace(/%2F/g, "/");
+    .replace(/SLASH/g, "/");
 
   return (
     // @ts-expect-error server component

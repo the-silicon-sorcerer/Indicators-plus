@@ -35,7 +35,7 @@ const IndicatorPage = async ({
             ? query
                 .replace(/%20/g, " ")
                 .replace(/%3A/g, ":")
-                .replace(/%2F/g, "/")
+                .replace(/SLASH/g, "/")
                 .replace(/\([A-Z][A-Z]\)$/, "")
             : " ",
         },
@@ -46,7 +46,7 @@ const IndicatorPage = async ({
             ? query
                 .replace(/%20/g, " ")
                 .replace(/%3A/g, ":")
-                .replace(/%2F/g, "/")
+                .replace(/SLASH/g, "/")
                 .replace(/\([A-Z][A-Z]\)$/, "")
             : " ",
         },

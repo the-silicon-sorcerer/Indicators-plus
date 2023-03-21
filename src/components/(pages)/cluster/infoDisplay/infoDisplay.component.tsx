@@ -9,7 +9,6 @@ import IconBox from "../../../(elements)/iconBox/iconBox.component";
 import { BackIcon } from "../../../(svgs)";
 import PaginationFooter from "../../../(elements)/pageinationFooter/paginationFooter.component";
 import { useEffect, useState } from "react";
-import { usePathname } from "next/navigation";
 
 interface InfoDisplayProps {
   indicators: CategoryIndicators;
