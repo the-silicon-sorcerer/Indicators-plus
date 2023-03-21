@@ -27,6 +27,7 @@ const IconBox = ({
           className={`${style.container!} ${className!}`}
           style={{
             width: size,
+            height: size,
             backgroundColor: background ? background : undefined,
             border: outline ? "var(--border)" : undefined,
             boxShadow: shadow ? "var(--iconShadow)" : undefined,
@@ -44,6 +45,7 @@ const IconBox = ({
       className={`${style.container!} ${className!}`}
       style={{
         width: size,
+        height: size,
         backgroundColor: background ? background : undefined,
         border: outline ? "var(--border)" : undefined,
         boxShadow: shadow ? "var(--iconShadow)" : undefined,
