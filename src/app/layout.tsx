@@ -1,5 +1,6 @@
 import { TrpcProvider } from "../utils/trpcProvider";
 import { Inter } from "@next/font/google";
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter();
 
@@ -10,7 +11,10 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
     <html lang="en" className={inter.className}>
       <head />
       <TrpcProvider>
-        <body>{children}</body>
+        <body>
+          {children}
+          <Analytics />
+        </body>
       </TrpcProvider>
     </html>
   );
